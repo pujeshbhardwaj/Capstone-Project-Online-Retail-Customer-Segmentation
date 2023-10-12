@@ -1,6 +1,6 @@
-## Online Retail Customer Segmentation (EDA & K-means Clustering)
-**Project Overview**
-This project focuses on customer segmentation for an online retail business. The dataset used contains transaction data from a UK-based and registered non-store online retail business, spanning from 01/12/2010 to 09/12/2011. The primary objective is to gain key insights and segment customers for more effective marketing strategies and programs.
+## Online Retail Customer Segmentation (EDA & K-means Clustering)  
+**Project Overview**  
+This project focuses on customer segmentation for an online retail business. The dataset used contains transaction data from a UK-based and registered non-store online retail business, spanning from 01/12/2010 to 09/12/2011. The primary objective is to gain key insights and segment customers for more effective marketing strategies and programs.  
 
 **Dataset**
 - Source: Dr. Daqing Chen, Director: Public Analytics group, School of Engineering, London South Bank University, London, UK.  
