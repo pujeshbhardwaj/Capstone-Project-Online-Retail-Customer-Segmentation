@@ -53,16 +53,16 @@ Cluster 3 has the highest revenue, monetary value, frequency, and order quantity
 Cluster 2 and Cluster 1 follow, but unit prices remain consistent across all clusters.  
 
 **Insights**  
-The online store has a global presence but is most influential in Europe, especially the UK.  
-The UK accounts for more than 80% of total orders, order quantity, and revenue share.  
-Among top countries, Germany and France have higher numbers of orders, while the Netherlands and EIRE have higher order quantity and revenue share.  
-Surprisingly, the top revenue-contributing customer (CustID - 14646) is from the Netherlands, not the UK.  
-The most occurring words in the Description column were "CHILDREN," "HEART," and "WHITE."  
+- The online store has a global presence but is most influential in Europe, especially the UK.  
+- The UK accounts for more than 80% of total orders, order quantity, and revenue share.  
+- Among top countries, Germany and France have higher numbers of orders, while the Netherlands and EIRE have higher order quantity and revenue share.  
+- Surprisingly, the top revenue-contributing customer (CustID - 14646) is from the Netherlands, not the UK.  
+- The most occurring words in the Description column were "CHILDREN," "HEART," and "WHITE."  
 
 **Conclusion**  
-Personalized Marketing: Utilize customer segmentation results to design tailored marketing programs. 
-Resource Allocation: Offer high-paying customers extra benefits like prime membership and free delivery.  
-Business Expansion: Focus on expanding to countries with lower order quantity and total revenue contribution.  
-Customer Retention: Reward and motivate top customers for continuous purchases and provide special recognition.  
-Digital Marketing Strategies: Implement SEO and SEM strategies to increase website traffic and sales.  
-This project's findings provide valuable insights for enhancing marketing strategies, customer relationships, and business growth.  
+- Personalized Marketing: Utilize customer segmentation results to design tailored marketing programs. 
+- Resource Allocation: Offer high-paying customers extra benefits like prime membership and free delivery.  
+- Business Expansion: Focus on expanding to countries with lower order quantity and total revenue contribution.  
+- Customer Retention: Reward and motivate top customers for continuous purchases and provide special recognition.  
+- Digital Marketing Strategies: Implement SEO and SEM strategies to increase website traffic and sales.  
+- This project's findings provide valuable insights for enhancing marketing strategies, customer relationships, and business growth.  
